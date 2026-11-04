@@ -63,7 +63,7 @@ Born from a real pain: processes scattered across forms, emails, documents, cale
 
 The goal is a multi-tenant platform that centralizes services, forms, documents, requests, workflows and automations.
 
-Already has a **pilot client**, so development is driven by real usage.
+Already has **pilot clients**, so development is driven by real usage.
 
 **Focus:** multi-tenant · dynamic forms · documents · automation · scheduling · security
 
@@ -114,15 +114,12 @@ Bilingual (PT/EN) institutional site for Imigran Construtora: project portfolio,
 ## Tech stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Modulith](https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
 ### Frontend
@@ -150,9 +147,7 @@ Also working with: authentication, multi-tenancy, REST APIs, application securit
 
 ## CyberSecurity (in progress)
 
-I'm studying **CyberSecurity on [TryHackMe](https://tryhackme.com/)**.
-
-Right now I'm on the early modules (**TryHackMe 101**). Next: specializations, hands-on **pentesting**, then certifications.
+I'm also studying **CyberSecurity on [TryHackMe](https://tryhackme.com/)**.
 
 ### Tools & topics I'm practicing
 
@@ -270,15 +265,15 @@ Agência / laboratório onde desenvolvo projetos para clientes, produtos própri
 
 #### Projetos em destaque
 
-- **[Teglion](https://teglion.com)** — SaaS para escritórios de contabilidade (multi-tenant, com cliente piloto)
+- **[Teglion](https://teglion.com)** — SaaS multi-tenant para escritórios de contabilidade (com clientes piloto)
 - **[MasterD Shopping](https://github.com/JaelsonS/MASTER_D_ProjetoFinal)** — e-commerce Full Stack (PHP, MySQL, Bootstrap, TypeScript, jQuery, React, AngularJS)
-- **AfDigital Food** — SaaS B2B para Food Service
-- **[Ana Sampaio](https://anasampaio.pt)** — website do Instituto de Beleza e Saúde Capilar
-- **[Imigran Construtora](https://imigranconstrutora.com)** — website institucional bilingue (construção civil, Coimbra)
+- **AfDigital Food** — SaaS B2B para Food Service (em desenvolvimento)
+- **[Ana Sampaio](https://anasampaio.pt)** — website profissional
+- **[Imigran Construtora](https://imigranconstrutora.com)** — website institucional bilingue
 
 #### Stack
 
-**Backend:** Java · Spring Boot · Spring Modulith · Node.js · Express · PHP · PostgreSQL · MySQL · Supabase · REST APIs  
+**Backend:** Node.js · Express · PHP · Java · PostgreSQL · MySQL · REST APIs  
 
 **Frontend:** React · AngularJS · TypeScript · jQuery · Vite · Tailwind · Bootstrap  
 
@@ -286,7 +281,7 @@ Agência / laboratório onde desenvolvo projetos para clientes, produtos própri
 
 #### CyberSecurity
 
-A estudar no **[TryHackMe](https://tryhackme.com/)** (módulos 101). A seguir: especializações, pentest e certificações.
+Também estudo CyberSecurity no **[TryHackMe](https://tryhackme.com/)**.
 
 Ferramentas / temas: Linux, Kali, Metasploit, Nmap, Gobuster, Hydra, John the Ripper, Wireshark, TCPDump, Python, SQL, SSH, Telnet, PowerShell, Active Directory (bases).
 
